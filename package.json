@@ -9,7 +9,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "homepage": "https://salmaBoudehane.github.io/calculator",
+    "homepage": "https://salmaBoudehane.github.io/mycalculator",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
